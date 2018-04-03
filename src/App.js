@@ -1,6 +1,5 @@
 import React from 'react';
 import { HashRouter as Router, Route, Switch } from 'react-router-dom';
-import Nav from './nav';
 import Products from './Products'
 import UserForm from './UserForm'
 import CategoryForm from './CategoryForm'
